@@ -1,0 +1,148 @@
+
+Jul 04, 2018 10:53:23.31 NEW SESSION
+Jul 04, 2018 10:53:23.31 [1788:9900:0704/105323.308:ERROR:install_util.cc(597)] Unable to read registry value HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken for writing result=2
+Jul 04, 2018 10:54:16.72 [1788:9480:0704/105416.728:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -118
+
+Sep 28, 2018 14:04:29.31 NEW SESSION
+Sep 28, 2018 14:04:29.31 [10724:9784:0928/140429.298:ERROR:install_util.cc(629)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+Sep 28, 2018 14:05:05.02 [10724:9784:0928/140505.027:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.08 [10724:9784:0928/140505.086:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.08 [10724:9784:0928/140505.086:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.08 [10724:9784:0928/140505.086:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.08 [10724:9784:0928/140505.086:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.086:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.086:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.086:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.086:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.092:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.092:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.092:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.092:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.092:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.09 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.10 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.11 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.11 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.11 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.11 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.11 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.11 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.11 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.11 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.11 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.12 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.12 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.12 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.12 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.12 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.12 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.12 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.12 [10724:9784:0928/140505.093:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.12 [10724:9784:0928/140505.094:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.12 [10724:9784:0928/140505.094:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.13 [10724:9784:0928/140505.094:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.13 [10724:9784:0928/140505.094:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.13 [10724:9784:0928/140505.094:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.13 [10724:9784:0928/140505.094:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.13 [10724:9784:0928/140505.094:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.13 [10724:9784:0928/140505.094:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.13 [10724:9784:0928/140505.094:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.13 [10724:9784:0928/140505.094:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.13 [10724:9784:0928/140505.094:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.13 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.14 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.14 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.14 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.14 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.14 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.14 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.14 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.14 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.14 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.15 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.15 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.15 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.15 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.15 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.15 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.15 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.15 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.15 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.15 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.15 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.16 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.16 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.16 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.16 [10724:9784:0928/140505.095:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.16 [10724:9784:0928/140505.127:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.16 [10724:9784:0928/140505.127:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.16 [10724:9784:0928/140505.127:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.16 [10724:9784:0928/140505.127:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.16 [10724:9784:0928/140505.127:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.127:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.127:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.127:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.17 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.18 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.18 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.18 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.18 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.18 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.18 [10724:9784:0928/140505.128:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.18 [10724:9784:0928/140505.129:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.18 [10724:9784:0928/140505.129:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.18 [10724:9784:0928/140505.129:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.18 [10724:9784:0928/140505.129:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.18 [10724:9784:0928/140505.129:ERROR:in_progress_cache_impl.cc(192)] Cache is not initialized, cannot RetrieveEntry.
+Sep 28, 2018 14:05:05.66 [10724:10796:0928/140505.666:ERROR:connection_factory_impl.cc(396)] Failed to connect to MCS endpoint with error -106
+Sep 28, 2018 14:05:13.64 [10724:9784:0928/140513.645:ERROR:account_tracker.cc(253)] OnGetTokenFailure: Invalid credentials (2).
+Sep 28, 2018 14:05:30.36 [10724:10796:0928/140530.366:ERROR:connection_factory_impl.cc(396)] Failed to connect to MCS endpoint with error -106
+Sep 28, 2018 14:06:17.74 [10724:10796:0928/140617.745:ERROR:connection_factory_impl.cc(396)] Failed to connect to MCS endpoint with error -106
+Sep 28, 2018 14:07:49.81 [10724:10796:0928/140749.816:ERROR:connection_factory_impl.cc(396)] Failed to connect to MCS endpoint with error -106
+Sep 28, 2018 14:07:56.15 [10724:9784:0928/140756.156:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Sep 28, 2018 14:08:16.28 [10724:9784:0928/140816.281:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Sep 28, 2018 14:09:10.21 [10724:9784:0928/140910.215:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Sep 28, 2018 14:10:39.44 [10724:10796:0928/141039.444:ERROR:connection_factory_impl.cc(396)] Failed to connect to MCS endpoint with error -106
+Sep 28, 2018 14:11:06.54 [10724:9784:0928/141106.540:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Sep 28, 2018 14:14:05.63 [10724:9784:0928/141405.631:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Sep 28, 2018 14:16:25.70 [10724:10796:0928/141625.706:ERROR:connection_factory_impl.cc(396)] Failed to connect to MCS endpoint with error -106
+Sep 28, 2018 14:19:46.74 [10724:9784:0928/141946.746:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Sep 28, 2018 14:26:25.70 [10724:10796:0928/142625.707:ERROR:connection_factory_impl.cc(396)] Failed to connect to MCS endpoint with error -106
+Sep 28, 2018 14:29:46.75 [10724:9784:0928/142946.750:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Sep 28, 2018 14:36:25.71 [10724:10796:0928/143625.719:ERROR:connection_factory_impl.cc(396)] Failed to connect to MCS endpoint with error -106
+Sep 28, 2018 14:39:46.76 [10724:9784:0928/143946.762:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Sep 28, 2018 14:44:08.34 [10724:10796:0928/144408.347:ERROR:connection_factory_impl.cc(396)] Failed to connect to MCS endpoint with error -21
+Sep 28, 2018 15:45:18.67 [10724:9784:0928/154518.594:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 16.879 s for first_image_paint 16.848 s
+Sep 28, 2018 15:45:20.79 [10724:9784:0928/154520.792:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 16.879 s for first_image_paint 16.848 s
+Sep 28, 2018 15:45:22.25 [10724:9784:0928/154522.250:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 16.879 s for first_image_paint 16.848 s
+Sep 28, 2018 15:45:24.48 [10724:9784:0928/154524.485:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 16.879 s for first_image_paint 16.848 s
+Sep 28, 2018 15:45:25.66 [10724:9784:0928/154525.660:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 16.879 s for first_image_paint 16.848 s
+Sep 28, 2018 15:45:26.98 [10724:9784:0928/154526.983:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 16.879 s for first_image_paint 16.848 s
+Sep 28, 2018 15:45:28.71 [10724:9784:0928/154528.709:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 16.879 s for first_image_paint 16.848 s
+Sep 28, 2018 15:45:29.72 [10724:9784:0928/154529.720:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 16.879 s for first_image_paint 16.848 s
+Sep 28, 2018 15:45:33.71 [10724:9784:0928/154533.710:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 16.879 s for first_image_paint 16.848 s
+Sep 28, 2018 15:45:35.33 [10724:9784:0928/154535.335:ERROR:page_load_metrics_update_dispatcher.cc(174)] Invalid first_paint 16.879 s for first_image_paint 16.848 s
